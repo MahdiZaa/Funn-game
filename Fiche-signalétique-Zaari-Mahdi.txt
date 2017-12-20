@@ -1,0 +1,64 @@
+Fiche signalétique
+
+Titre : Fun Game				   	Genre : Exploration
+Support : PC / MAC					Cible : 10+
+
+
+Concept 
+
+Coincé dans un rêve bizarre qui combine quelques un de vos classiques des jeux vidéo rétro, 
+vous devez à chaque fois arriver à la platforme finale pour vous réveiller d'un rêve jusqu'à ce que vous vous reveillez 
+de ce cauchemard à pièges.  
+
+
+Condition de victoire / défaite
+
+Victoire : Vous devez éviter tout les pièges jusqu'à la platforme finale.
+Défaite : Vous vous faites avoir par un piège ou un canon ou que vous tombez dans le vide.
+
+
+Gameplay principal
+
+Environnement 
+
+Le décor est spacial dans le premier et dernier niveau et il est marin dans le niveau 2. Aucun objet ne pourra être ramasser.
+
+Contrôle du jeu
+
+Le jeu se joue en vue subjective. Le joueur vous représente.
+Vous avez 3 vie pour toute une partie et vous ne pouvez pas en gagner. Vous devez savoir gerer vos boosts, et vos sauts par rapport 
+à la physique du jeu réspectivement à l'aide des touches shift et espace.
+
+Les salles (niveaux)
+
+	Salle de départ :
+		La salle de départ n'est pas une salle mais le menu de démarage du jeu.
+		Elle permet soit de quitter le jeu, soit de commencer au niveau 1
+
+	Salle de mort :
+La salle de mort n'est pas une salle non plus mais un écran de game over qui survient lorsque vous n'avez plus de vies 
+suite à un l'échec d'un niveau, qui vous renvoi au menu du jeu.
+
+	Salle du chemin parfait :
+Il n'y a pas de chemin parfait, enfin vous devez trouver le chemin qui vous permet de réussir le niveau le plus facilement
+et rapidement possible et celà dans chaqu'une des salles (niveaux).
+
+
+	Salle de Fin du jeu:
+
+La salle de fin de jeu, ce trouve au niveau 3, il faut terminer le parcours alors que vous avez déjà perdu quelques 
+unes de vos précieuses vies dans les niveaux précèdent, alors il faudra être très vigilent car il faut avoir un juste 
+milieu de boost de sauts de prises de risques et de reflexion.
+
+
+USP
+
+Satisfaction de réussite contre le jeu et contre soi-même.
+Seulement 3 vies pour tout les niveaux ( stressant ).
+
+Ambiance Graphique et Sonore
+
+L’ambiance sonore résonne dans les bruits des pas, bruit de mort, bruits de canons, phrase de game over, 
+bruit de la mer dans le niveau 2 et des actions du joueur ainsi que la musique de fond du jeu assez futuristique 
+sauf niveau 2 . L’ambiance graphique est plutôt sombre et spaciale similaire dans les niveaux 1 et 3 tandis qu'au niveau 
+2 elle est plutot ensoleillée, dans le genre forteresse maritime.
